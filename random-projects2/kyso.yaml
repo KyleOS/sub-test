@@ -1,3 +1,4 @@
 posts: 
-  - "*"
+  - "random-projects1/*"
+  - "random-projects2/*"
 main: notebook.ipynb
