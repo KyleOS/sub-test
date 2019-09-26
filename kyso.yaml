@@ -1,5 +1,5 @@
 hideRoot: true
 posts: 
-  - "random-projects1/*"
-  - "random-projects2/*"
-main: notebook.ipynb
+  - "category1/*"
+  - "category2/*"
+main: article.ipynb
